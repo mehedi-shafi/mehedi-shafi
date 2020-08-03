@@ -26,7 +26,7 @@
 
 ## Recent Changes:
 * [Git-Bot](https://github.com/mehedi-shafi/git-bot)
-* []
+* [Amazon Scraper](https://github.com/mehedi-shafi/amazon-scrapper/)
 </td>
 </tr>
 </table>
